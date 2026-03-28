@@ -21,10 +21,9 @@ O meu primeiro projeto funcional de lógica de hardware.
 ### Circuito 01: Sequência de 3 LEDs
 Abaixo está o esquema do circuito que desenvolvi no Tinkercad:
 
-![Esquema de LEDs](arduino/arduino/<img width="1034" height="907" alt="Captura de ecrã 2026-03-28, às 15 44 09" src="https://github.com/user-attachments/assets/92ae5431-3c4d-4f60-94bb-6170361c6f8d" />
-)
+![Esquema de LEDs]<img width="1034" height="907" alt="Captura de ecrã 2026-03-28, às 15 44 09" src="https://github.com/user-attachments/assets/92ae5431-3c4d-4f60-94bb-6170361c6f8d" />
 
-> *Nota: Se a tua imagem tiver outro nome dentro da pasta assets, substitui o 'esquema-leds.png' pelo nome real do ficheiro.*
+
 
 ---
 
